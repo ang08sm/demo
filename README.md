@@ -1,2 +1,3 @@
 # demo
-This is my first Git repos
+This is my first Git repos.
+Author - Anurag Gupta
